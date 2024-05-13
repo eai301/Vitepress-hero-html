@@ -1,2 +1,2 @@
 # Vitepress with hero html
-v.1 for ionic simple project
+v.1 for vuejs simple project
